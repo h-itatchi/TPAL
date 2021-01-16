@@ -10,6 +10,8 @@
         <module name="Exercice3" />
         <module name="Exercice2" />
         <module name="Exercice5" />
+        <module name="Exercice7" />
+        <module name="Exercice6" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
